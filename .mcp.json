@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "shadcn@latest", "mcp"]
+    },
+    "magicuidesign-mcp": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@magicuidesign/mcp@latest"]
+    }
+  }
+}

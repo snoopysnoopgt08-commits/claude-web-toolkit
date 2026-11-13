@@ -1,0 +1,11 @@
+{
+  "name": "claude-web-toolkit",
+  "owner": { "name": "Josh Shawn" },
+  "plugins": [
+    {
+      "name": "web-toolkit",
+      "source": "./",
+      "description": "Design and web-building skills, impeccable agents and the shadcn + Magic UI MCP servers, for every website project."
+    }
+  ]
+}
